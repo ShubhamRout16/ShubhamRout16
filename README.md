@@ -1,7 +1,7 @@
 # Konnichiwa! I'm Shubham Rout
 
 **`🧙🏻‍♂️ Fledling Developer`**<br>
-On an Epic Quest to master the Digital Realm!<br>
+**On an Epic Quest to master the Digital Realm!**<br>
 
 # Tech Arsenal
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
