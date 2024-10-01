@@ -8,3 +8,5 @@ On an Epic Quest to master the Digital Realm!<br>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+# Project videos
+[![|Rock Paper Scissors Project Using | HTML | CSS | JS](https://ytcards.demolab.com/?id=nyk5rbuU-Yg&title=|+Rock+Paper+Scissors+Project+Using+|+HTML+|+CSS+|+JS&lang=en&timestamp=1727807400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "|Rock Paper Scissors Project Using | HTML | CSS | JS")](https://youtu.be/nyk5rbuU-Yg?si=js95O10IMiOy_GxH)
